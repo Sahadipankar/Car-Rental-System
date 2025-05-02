@@ -6,14 +6,14 @@ Welcome to the **Car Rental System**, a Java-based console project that simulate
 
 ## 📋 Table of Contents
 
-- [Features](#features)
-- [Services & Menu Options](#services--menu-options)
-  - [1. Rent a Car](#1-rent-a-car)
-  - [2. Return a Car](#2-return-a-car)
-  - [3. Exit](#3-exit)
-- [Class Structure](#class-structure)
-- [Future Roadmap](#future-roadmap)
-- [Contributions](#contributions)
+- [✨ Features](#-features)
+- [📱 Services & Menu Options](#-services--menu-options)
+  - [1️⃣ Rent a Car](#1️-rent-a-car)
+  - [2️⃣ Return a Car](#2️-return-a-car)
+  - [3️⃣ Exit](#3️-exit)
+- [🧱 Class Structure](#-class-structure)
+- [🛣️ Future Roadmap](#️-future-roadmap)
+- [🤝 Contributions](#-contributions)
 
 ---
 
@@ -24,6 +24,8 @@ Welcome to the **Car Rental System**, a Java-based console project that simulate
 - 👤 **Customer Auto-Registration**: New customers are automatically registered during rental.
 - 📄 **Rental Management**: Maintains in-memory rental records.
 - 🛠️ **Simple Console Interface**: Clean and beginner-friendly terminal navigation.
+
+[🔝 Back to Table of Contents](#-table-of-contents)
 
 ---
 
@@ -80,6 +82,8 @@ Confirm rental (Y/N): Y
 
 Car rented successfully.
 
+[🔝 Back to Table of Contents](#-table-of-contents)
+
 ---
 
 ### 2️⃣ Return a Car
@@ -98,6 +102,8 @@ Enter the car ID you want to return: C002
 
 Car returned successfully by John
 
+[🔝 Back to Table of Contents](#-table-of-contents)
+
 ---
 
 ### 3️⃣ Exit
@@ -105,6 +111,8 @@ Car returned successfully by John
 **Description**: Ends the program.
 
 Thank you for using the Car Rental System!
+
+[🔝 Back to Table of Contents](#-table-of-contents)
 
 ---
 
@@ -118,6 +126,8 @@ Thank you for using the Car Rental System!
 | **CarRentalSystem** | Manages cars, customers, and rentals. Handles menu UI and actions. |
 | **Main**          | Entry point. Adds sample cars and runs the menu system. |
 
+[🔝 Back to Table of Contents](#-table-of-contents)
+
 ---
 
 ## 🛣️ Future Roadmap
@@ -126,6 +136,8 @@ Thank you for using the Car Rental System!
 - 🧑‍💼 Enable registered customer login.
 - 💾 Implement file/database storage.
 - 🖥️ Add GUI using JavaFX or Swing.
+
+[🔝 Back to Table of Contents](#-table-of-contents)
 
 ---
 
@@ -138,3 +150,5 @@ Feel free to:
 - 📬 Submit pull requests  
 
 Let’s build something great together! 🚀
+
+[🔝 Back to Table of Contents](#-table-of-contents)
