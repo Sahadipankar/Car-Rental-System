@@ -8,9 +8,9 @@ Welcome to the **Car Rental System**, a Java-based console project that simulate
 
 - [✨ Features](#-features)
 - [📱 Services & Menu Options](#-services--menu-options)
-  - [1️⃣ Rent a Car](#1️-rent-a-car)
-  - [2️⃣ Return a Car](#2️-return-a-car)
-  - [3️⃣ Exit](#3️-exit)
+  - [Rent a Car](#rent-a-car)
+  - [Return a Car](#return-a-car)
+  - [Exit](#exit)
 - [🧱 Class Structure](#-class-structure)
 - [🛣️ Future Roadmap](#️-future-roadmap)
 - [🤝 Contributions](#-contributions)
@@ -46,7 +46,7 @@ Enter your choice: _
 
 ---
 
-### 1️⃣ Rent a Car
+### Rent a Car
 
 **Description**: Lets the user rent an available car.
 
@@ -86,7 +86,7 @@ Car rented successfully.
 
 ---
 
-### 2️⃣ Return a Car
+### Return a Car
 
 **Description**: Returns a rented car based on car ID.
 
@@ -106,7 +106,7 @@ Car returned successfully by John
 
 ---
 
-### 3️⃣ Exit
+### Exit
 
 **Description**: Ends the program.
 
