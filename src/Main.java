@@ -232,6 +232,8 @@ class CarRentalSystem { // Class representing the car rental system
                 }
             } 
             else if (choice == 3) {
+                System.out.println("\nExiting the Car Rental System. Thank you!");
+                System.out.println("Have a great day!");  // Exit message
                 break;
             } 
             else {
